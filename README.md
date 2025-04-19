@@ -1,4 +1,6 @@
-COLLEGE OF COMPUTING AND SOFTWARE ENGINEERING
-DEPARTMENT OF INFORMATION TECHNOLOGY
-IT 3883: ADVANCE APPLICATION DESIGN SECTION 01/W02
-SPRING 2025
+This repo is for IT3883 Assignment 5.
+## Quick Start
+Here is how your can execute my code
+```python main.py```
+### Output Screenshot
+![output image](Figures/screenshot1.png)
